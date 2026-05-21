@@ -1,0 +1,16 @@
+.vscode/**
+.vscode-test/**
+test/**
+.gitignore
+.yarnrc
+vsc-extension-quickstart.md
+.omc/**
+.claude/settings.local.json
+TEMPLATE_SETUP.md
+node_modules/**
+.eslintrc.*
+eslint.config.*
+**/jsconfig.json
+**/*.map
+**/eslint.config.mjs
+**/.vscode-test.*
