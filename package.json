@@ -2,7 +2,7 @@
   "name": "your-extension-name",
   "displayName": "Your Extension Name",
   "description": "A brief description of your VS Code extension",
-  "version": "0.1.0",
+  "version": "0.2.0-beta.1",
   "publisher": "your-publisher-name",
   "type": "module",
   "engines": {
